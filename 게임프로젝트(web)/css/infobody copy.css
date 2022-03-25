@@ -1,0 +1,23 @@
+body{
+  background: #eaeaea;
+}
+
+#table_body{
+  text-align: center;
+}
+
+#table_body img{
+  width: 250px;
+  height:250px;
+
+}
+
+#game_poster{
+  text-align: center;
+}
+
+#game_poster img{
+  width: 1150px;
+  height: 293px;
+
+}
